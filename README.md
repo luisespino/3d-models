@@ -5,4 +5,4 @@ Repository of custom STL files for 3D printing. Includes functional 3D models, p
 
 ## Tutorial Video
 
-[![Watch the video](https://img.youtube.com/vi/jDmcEISjoA4/maxresdefault.jpg)](https://www.youtube.com/watch?v=jDmcEISjoA4)
+[![Watch the video](https://img.youtube.com/vi/Zx0nPeVPFag/maxresdefault.jpg)](https://www.youtube.com/watch?v=Zx0nPeVPFag)
